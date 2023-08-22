@@ -1,4 +1,4 @@
-# This is not exactly my solution, I made some parts different but it did not work so I got some help..
+# This is not exactly my solution, I made some parts differently but it did not work so I got some help..
 def count_substring(string, sub_string):
     counting = 0 #This will be the output.
     for i in range(0, len(string)): #We need a for loop for comparisons.
